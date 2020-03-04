@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/JoseR/AppData/Roaming/NetBeans/8.2/config/WebServices/OVCCallejero-asmx/catalog/ovc.catastro.meh.es/ovcservweb/OVCSWLocalizacionRC/OVCCallejero.asmx" uri="xml-resources/web-service-references/OVCCallejero/wsdl/OVCCallejero.asmx"/>
+</catalog>
